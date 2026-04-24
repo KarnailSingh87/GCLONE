@@ -5502,3 +5502,4 @@ Badge trigger 0
 Badge trigger 1
 Badge trigger 2
 Badge trigger 3
+Badge trigger 4
