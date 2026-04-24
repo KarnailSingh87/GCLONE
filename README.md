@@ -1,40 +1,42 @@
-# ⚡ Hello, I'm <Your Name>! 
-### Senior Full-Stack Developer | MERN Specialist | Architecting Scalable Solutions
+# Hi there, I'm Harsh! 👋
 
-<p align="left">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=<YOUR_USERNAME>&theme=onedark" alt="<YOUR_USERNAME>" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70" width="100%" />
 </p>
 
----
+### 💫 About Me
+- 🔭 I’m currently working on premium web applications.
+- 🌱 I’m currently learning advanced system architecture.
+- ⚡ Fun fact: I love automating everything!
 
-### 👨‍💻 About Me
-- 🔭 I’m currently building **Scalable SaaS Architectures** and **High-Performance Real-time Apps**.
-- 🌱 Advanced focus: **System Design**, **Microservices**, and **Cloud-Native Node.js**.
-- 👯 Looking to collaborate on **Open Source MERN tools** and **Complex Fintech Apps**.
-- 💬 Ask me about **React Performance**, **MongoDB Optimization**, or **Express Security**.
-- 📫 How to reach me: **[LinkedIn](YOUR_LINKEDIN_URL)** | **[Portfolio](YOUR_PORTFOLIO_URL)**
-
----
-
-### 🛠️ Tech Stack & Skills
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) ![CI/CD](https://img.shields.io/badge/-CI/CD-FF9900?style=flat-square&logo=github-actions) |
-
----
-
-### 📊 Github Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&langs_count=7&theme=tokyonight"/>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Harsh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
----
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh&theme=radical&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/<YOUR_USERNAME>/<YOUR_USERNAME>/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/harsh/harsh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsh&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+</p>
