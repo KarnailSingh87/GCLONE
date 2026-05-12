@@ -24,10 +24,6 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,python,git,html,css,vscode,postman,docker,aws" />
 </p>
 
-### 🐍 Contribution Journey
-<p align="center">
-  <img src="https://github.com/harsh/harsh/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
 
 ### 📫 Connect with me
 <p align="center">
